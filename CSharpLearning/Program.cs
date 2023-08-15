@@ -8,7 +8,7 @@ partial class Program
     {
 
         // The tutorial or lesson we're working on/demonstrating
-        TestNamespaces();
+        ReadTextFromFile();
 
         Console.ReadLine();
     }
