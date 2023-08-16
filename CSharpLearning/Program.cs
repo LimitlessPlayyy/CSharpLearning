@@ -8,6 +8,7 @@ partial class Program
     {
 
         // The tutorial or lesson we're working on/demonstrating
+        WriteToTextFile();
         ReadTextFromFile();
 
         Console.ReadLine();

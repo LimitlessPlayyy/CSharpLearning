@@ -1,4 +1,3 @@
-﻿line 1
-line 2
-line 3 hahahhaahaahhahhahahaha
-line 4 goo goo
+Testing: writing a new line to this text file
+you are smelly
+you smell funny
